@@ -1,4 +1,7 @@
-# template-electron
+# ARCHIVED
+Use [templates-ecosystem/template-electron-vite](https://github.com/templates-ecosystem/template-electron-vite) instead.
+
+# template-electron-vite
 
 <a href="https://github.com/tandpfun/skill-icons">
   <img align="center" src="https://skillicons.dev/icons?i=electron,vite,solidjs,ts&theme=dark" />
